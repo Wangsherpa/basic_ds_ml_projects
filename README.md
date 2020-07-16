@@ -1,1 +1,1 @@
-# basic_ds_ml_projects
+# This repository contains basic Data Science, Machine Learning and Deep Learning Projects.
